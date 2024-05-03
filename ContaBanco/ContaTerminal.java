@@ -8,7 +8,7 @@ public class ContaTerminal {
         int numero;
         String agencia, nomeCliente;
         float saldo;
-
+    
         System.out.println("Digite seu nome: ");
         nomeCliente = ler.next();
 
